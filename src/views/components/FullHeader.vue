@@ -8,7 +8,7 @@
     <b-nav-item><locale /></b-nav-item>
     <b-button
       v-ripple.400="'rgba(255, 255, 255, 0.15)'"
-      variant="primary"
+      variant="dark"
       class="btn-icon mt-25"
       :to="{ name: 'accounts' }"
     >

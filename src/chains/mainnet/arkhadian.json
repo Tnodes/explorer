@@ -1,0 +1,16 @@
+{
+    "chain_name": "arkhadian",
+    "coingecko": "",
+    "api": ["https://api.arkh.tnodes.my.id"],
+    "rpc": ["https://rpc.arkh.tnodes.my.id"],
+    "sdk_version": "0.44.5",
+    "addr_prefix": "arkhadian",
+    "logo": "/logos/arkh.png",
+    "assets": [{
+        "base": "unarkh",
+        "symbol": "ARKH",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/arkh.png"
+    }]
+}

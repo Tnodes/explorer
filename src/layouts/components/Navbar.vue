@@ -98,7 +98,7 @@
         <template #button-content>
           <b-button
             v-ripple.400="'rgba(255, 255, 255, 0.15)'"
-            variant="primary"
+            variant="dark"
             class="btn-icon"
           >
             <feather-icon icon="KeyIcon" />

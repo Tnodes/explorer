@@ -1,0 +1,16 @@
+{
+    "chain_name": "Goa-Ordos",
+    "coingecko": "",
+    "api": ["https://api.goa-ordos.tnodes.my.id"],
+    "rpc": ["https://rpc.goa-ordos.tnodes.my.id"],
+    "sdk_version": "0.46.9",
+    "addr_prefix": "ordos",
+    "logo": "/logos/ordos.png",
+    "assets": [{
+        "base": "unord",
+        "symbol": "ORD",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/ordos.png"
+    }]
+}

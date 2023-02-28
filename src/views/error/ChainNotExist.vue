@@ -3,8 +3,8 @@
   <div class="misc-wrapper">
     <b-link class="brand-logo">
       <vuexy-logo />
-      <h2 class="brand-text text-primary ml-1">
-        PING.PUB
+      <h2 class="brand-text text-dark ml-1">
+        Tnodes Explorer
       </h2>
     </b-link>
 
